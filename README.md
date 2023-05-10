@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![Aria's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariaxo&theme=calm)
+Dreams may dwell in life’s far shore,
+but not survive in this harsh world’s bane.
+If loneliness be my destiny for sure,
+then let me seek loveliness in loner’s domain.
+
+
 ![Aria's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ariaxo&theme=Default (cotton candy))
 <!--
 **ariaxo/ariaxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
