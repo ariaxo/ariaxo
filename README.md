@@ -8,7 +8,7 @@ but not survive in this harsh world’s bane.
 If loneliness be my destiny for sure,  
 then let me seek loveliness in loner’s domain.  
 </br></br>
-- I’m currently working on ...[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariaxo&repo=MaoPurgeUSB&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+- I’m currently working on ...[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariaxo&repo=MaoPurgeUSB&theme=calm)](https://github.com/ariaxo/MaoPurgeUSB)
 - 🌱 I’m currently learning ... Well it's a lot of things  
 - How to reach me: thulium69@outlook.com or leave a comment on [VOIDHEAD](https://blog.ariax.icu)  
 - Pronouns: They/Them, He/Him, that cat thing or anything you want anyway  
